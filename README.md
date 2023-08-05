@@ -1,2 +1,2 @@
-# subgraph
-GPLX Subgraph
+# gplx-subgraph
+GPLX Subgraphs
